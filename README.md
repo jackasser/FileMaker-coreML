@@ -1,0 +1,2 @@
+# FileMaker-coreML
+IoTで取得したデータをCoreMLで使用するためのソース
